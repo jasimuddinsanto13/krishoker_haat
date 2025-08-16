@@ -1,16 +1,32 @@
-# krishokerhaat
+🌾 Krishoker Haatt
 
-A new Flutter project.
+Krishoker Haatt is a Flutter-based mobile application designed to connect farmers, sellers, and buyers in one digital marketplace.
+The app helps farmers sell their crops, buyers discover fresh produce, and provides features like product listing, authentication, cart, and order management.
 
-## Getting Started
+📱 Features
 
-This project is a starting point for a Flutter application.
+🔑 User Authentication – Signup/Login with secure API integration.
 
-A few resources to get you started if this is your first Flutter project:
+🛒 Product Listing – Browse products with name, price, description, and images.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🧺 Cart & Orders – Add items to cart, place orders, and track order history.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📂 Category-wise Products – Easy navigation with category filters.
+
+📸 Sell Your Items – Farmers/sellers can add products with details & up to 5 images.
+
+🎉 Events & Community – Updates on farming-related events.
+
+🌐 Django REST Backend – Powered by a Django REST API.
+
+🛠️ Tech Stack
+
+Frontend: Flutter (Dart)
+
+Backend: Django REST Framework
+
+Database: PostgreSQL / SQLite (for development)
+
+State Management: Provider / Riverpod (depending on implementation)
+
+Authentication: JWT Token-based authentication
