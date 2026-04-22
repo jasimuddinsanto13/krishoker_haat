@@ -27,6 +27,4 @@ Backend: Django REST Framework
 
 Database: PostgreSQL / SQLite (for development)
 
-State Management: Provider / Riverpod (depending on implementation)
-
 Authentication: JWT Token-based authentication
